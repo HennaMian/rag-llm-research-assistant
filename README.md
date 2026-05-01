@@ -2,7 +2,7 @@
 
 FerroGPT is a Flask API for retrieval-augmented question answering over a ferroelectric memory research corpus. The included papers focus on ferroelectrics, especially hafnium-oxide-based ferroelectric materials and memory devices. The app converts those research documents into searchable sections, ranks the most relevant context with OpenAI embeddings, and generates a concise answer grounded in that context.
 
-[Loom demo](LOOM_DEMO_URL_HERE)
+[Try it out here](https://electrons.ece.gatech.edu/ferrogpt/]
 
 ## Highlights
 
